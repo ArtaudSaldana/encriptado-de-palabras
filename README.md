@@ -42,5 +42,5 @@ Un botón que copie el texto encriptado/desencriptado para la sección de transf
 <h4>Copiamos el texto encriptado y lo colocamos en la primera area de texto</h4>
 <img src="img/textoCopiado.png"></img>
 
-<h4>Mensaje desencriptado</h4>
+<h4>Damos click al boton desencriptar "Mensaje desencriptado"</h4>
 <img src="img/textoDesencriptado.png"></img>
