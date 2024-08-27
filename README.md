@@ -30,4 +30,4 @@ Un botón que copie el texto encriptado/desencriptado para la sección de transf
 
 <h2>Imagenes del Encriptador</h2>
 
-<img src=""></img>
+<img src="inicio.png"></img>
