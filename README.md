@@ -30,6 +30,17 @@ Un botón que copie el texto encriptado/desencriptado para la sección de transf
 
 <h2>Imagenes del Encriptador</h2>
 
+<h4>Pagina de Inicio</h4>
 <img src="img/inicio.png"></img>
 
+<h4>Introducimos una palabra o palabras </h4>
 <img src="img/inicioTexto.png"></img>
+
+<h4>Damos click al boton encriptar</h4>
+<img src="img/mensajeEncriptado.png"></img>
+
+<h4>Copiamos el texto encriptado y lo colocamos en la primera area de texto</h4>
+<img src="img/textoCopiado.png"></img>
+
+<h4>Mensaje desencriptado</h4>
+<img src="img/textoDesencriptado.png"></img>
