@@ -344,5 +344,12 @@
       display: none;
       visibility: hidden;
     }
+
+/*CELULAR*/
+
+.logo {
+    height: 3rem;
+  }
+    
   
   }
